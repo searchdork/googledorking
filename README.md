@@ -1,3 +1,4 @@
+<pre>
 This tool consists of four main components:
 (1) /opt/googledorking/etc/googledorking.cfg
 (2) runGoogleDorking.py
@@ -68,3 +69,4 @@ Same structure as above - this acts as a state file for the purposes of splittin
 
 
 
+</pre>
